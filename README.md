@@ -1,4 +1,4 @@
-# Time Series Forecasting Repository
+# Time Series Forecasting
 
 This repository is a collection of Jupyter notebooks that explore and implement various techniques for time series forecasting. The project provides a comparative study of different forecasting models, including traditional machine learning and state-of-the-art deep learning architectures. The core of this work is to showcase the practical application of these models using a Forex dataset.
 
